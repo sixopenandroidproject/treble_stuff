@@ -1,1 +1,1 @@
-put buildrom.sh into ROM source folder, make it executable, then use the scrip $buildrom.sh arm64_ab_stock for treble arm64 a/b partition and no gapps, just phh-su. Gapps must be flashed to use setup wizard
+put buildrom.sh into ROM source folder, make it executable, then use the scrip $ buildrom.sh arm64_ab_stock for treble arm64 a/b partition and no gapps, just phh-su. Gapps must be flashed to use setup wizard
